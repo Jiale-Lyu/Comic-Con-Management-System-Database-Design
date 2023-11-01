@@ -6,3 +6,7 @@ A large crowd of people assemble at Comic-Con to honor various comic book and an
 ## Initial ERD
 
 ![Initial ERD drawio](https://github.com/Jiale-Lyu/Comic-Con-Management-System-Database-Design/assets/113040940/ff7b1fd5-9a68-4490-ac5f-bed9a2159f5f)
+
+## Revised ERD
+
+![Initial ERD drawio](https://github.com/Jiale-Lyu/Comic-Con-Management-System-Database-Design/blob/main/Revised%20ERD.drawio.png)
